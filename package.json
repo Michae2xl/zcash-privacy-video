@@ -1,0 +1,28 @@
+{
+  "name": "zcash-privacy-video",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "remotion studio",
+    "build": "remotion render ZcashPrivacy out/zcash-privacy.mp4",
+    "preview": "remotion preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@remotion/cli": "4.0.441",
+    "@remotion/media-utils": "4.0.441",
+    "@remotion/transitions": "4.0.441",
+    "react": "19.2.4",
+    "react-dom": "19.2.4",
+    "remotion": "4.0.441"
+  },
+  "devDependencies": {
+    "@types/react": "19.2.14",
+    "@types/react-dom": "19.2.3",
+    "typescript": "6.0.2"
+  }
+}
