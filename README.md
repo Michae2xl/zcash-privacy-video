@@ -4,7 +4,7 @@ A cinematic explainer video about Zcash privacy built with [Remotion](https://ww
 
 ## Preview
 
-https://github.com/user-attachments/assets/placeholder
+> Clone the repo and run `npm start` to preview in Remotion Studio, or render the final video with `npm run build`.
 
 ## Scenes
 
